@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':cupertinoviews'
 rootProject.name='CupertinoAndroidWidgets'
